@@ -7,13 +7,10 @@ pipeline/Sink.py
 pipeline/Source.py
 pipeline/Wrapper.py
 pipeline/__init__.py
-pipeline/modelstore/__init__.py
-pipeline/modelstore/api_client.py
-pipeline/modelstore/model_store.py
-pipeline/modelstore/conf/__init__.py
-pipeline/modelstore/conf/config.py
-pipeline/modelstore/utils/__init__.py
-pipeline/modelstore/utils/utils.py
+pipeline/api_client.py
+pipeline/model_store.py
+pipeline/config.py
+pipeline/utils.py
 pipeline.egg-info/PKG-INFO
 pipeline.egg-info/SOURCES.txt
 pipeline.egg-info/dependency_links.txt
