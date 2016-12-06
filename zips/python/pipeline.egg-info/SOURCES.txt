@@ -1,10 +1,14 @@
 setup.py
+pipeline/ApiClient.py
+pipeline/Config.py
 pipeline/DAG.py
 pipeline/IBMSparkPipeline.py
 pipeline/IBMSparkPipelineModel.py
+pipeline/ModelStore.py
 pipeline/Result.py
 pipeline/Sink.py
 pipeline/Source.py
+pipeline/Utils.py
 pipeline/Wrapper.py
 pipeline/__init__.py
 pipeline.egg-info/PKG-INFO
