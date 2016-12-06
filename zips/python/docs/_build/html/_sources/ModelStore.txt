@@ -1,0 +1,9 @@
+pipeline.ModelStore module
+======================
+
+Module Context
+--------------
+
+.. automodule:: pipeline.ModelStore
+    :members:
+    :undoc-members:
