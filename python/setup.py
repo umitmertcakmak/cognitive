@@ -1,11 +1,12 @@
 from setuptools import setup
 
-setup(name='modelstore',
-      version='0.1',
-      description='Modelstore library',
-      url='https://github.ibm.com/NGP-TWC/git-reposervice/',
+VERSION='0.1.347'
+setup(name='pipeline',
+      version=VERSION,
+      description='Pipeline library',
+      url='https://github.ibm.com/NGP-TWC/platform-pipeline/',
       author='IBM',
       author_email='ibm@ibm.com',
       license='IBM',
-      packages=['modelstore', 'modelstore.utils', 'modelstore.conf'],
+      packages=['pipeline'],
       zip_safe=False)
