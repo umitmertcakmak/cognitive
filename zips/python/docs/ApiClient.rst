@@ -1,9 +1,0 @@
-pipeline.ApiClient module
-=======================
-
-Module Context
---------------
-
-.. automodule:: pipeline.ApiClient
-    :members:
-    :undoc-members:
